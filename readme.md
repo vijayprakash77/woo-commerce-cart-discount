@@ -181,4 +181,4 @@ For support, feature requests, or bug reports, please contact me [vijayprakashmh
 **Plugin Information:**
 * Version: 0.0.1
 * Tested with: WooCommerce 9.9.5, WordPress 6.8.1
-* License: GPL v2 or later
+* License: MIT License
