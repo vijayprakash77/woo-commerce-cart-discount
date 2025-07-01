@@ -1,4 +1,4 @@
-=== WooCommerce Conditional Discount ===  
+## WooCommerce Conditional Discount on Cart
 **Contributors:** Vijay Prakash Mahato  
 **Tags:** wordpress, woocommerce, discount, cart, conditional, accessories  
 **Requires at least:** 6.8.1  
@@ -9,7 +9,7 @@
 Automatically applies 15% discount when cart contains accessories products and total is ₹2000 or more.
 and show discount message on top of cart table
 
-== Description ==
+## Description
 
 WooCommerce Conditional Discount is a lightweight plugin that automatically applies a 15% discount to your WooCommerce cart when specific conditions are met:
 
@@ -29,7 +29,7 @@ WooCommerce Conditional Discount is a lightweight plugin that automatically appl
 3. If conditions are satisfied, 15% discount is automatically applied
 4. Customer sees confirmation message and discount amount on cart page
 
-== Installation ==
+## Installation 
 
 **Requirement to Install this Plugin on Wordpress:**
 1. Must have woo commerce plugin to be install
@@ -47,7 +47,7 @@ WooCommerce Conditional Discount is a lightweight plugin that automatically appl
 * WooCommerce 9.9.5 or higher
 * PHP 7.4 or higher
 
-== Setup Instructions ==
+## Setup Instructions
 
 **1. Create Accessories Category**
 1. Go to Products > Categories in your WordPress admin
@@ -63,7 +63,7 @@ WooCommerce Conditional Discount is a lightweight plugin that automatically appl
 2. Add other products to reach ₹2000 total
 3. Visit cart page to see the discount applied
 
-== Assumptions Made ==
+## Assumptions Made 
 
 **Category Recognition:**
 * Plugin looks for categories with slugs: "accessories"
@@ -84,7 +84,7 @@ WooCommerce Conditional Discount is a lightweight plugin that automatically appl
 * Compatible with most themes and plugins
 * Uses WooCommerce hooks and filters
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
 **Q: Does this plugin interfere with existing coupons?**
 A: No, the plugin applies discount as a fee, not a coupon, so it works alongside existing coupons.
@@ -104,7 +104,7 @@ A: Yes, the plugin checks the main product categories for variations
 **Q: Can I customize the discount message?**
 A: Yes, modify the text in the `$discount_message` variable
 
-== Technical Details ==
+## Technical Details 
 
 **Plugin Architecture:**
 * Uses procedural PHP (no OOP)
@@ -124,7 +124,7 @@ A: Yes, modify the text in the `$discount_message` variable
 * Sanitizes all outputs
 * Uses WordPress/WooCommerce best practices
 
-== Troubleshooting ==
+## Troubleshooting 
 
 **Discount not applying:**
 1. Ensure WooCommerce is active
@@ -142,7 +142,7 @@ A: Yes, modify the text in the `$discount_message` variable
 2. Verify products are properly categorized
 3. Check for typos in category names
 
-== Changelog ==
+## Changelog 
 
 = 0.0.1 =
 * Initial release
@@ -150,12 +150,12 @@ A: Yes, modify the text in the `$discount_message` variable
 * Customer messaging system
 * WooCommerce compatibility
 
-== Upgrade Notice ==
+## Upgrade Notice 
 
 = 0.0.1 =
 Initial release of WooCommerce Conditional Discount plugin.
 
-== Development Notes ==
+## Development Notes 
 
 **Code Structure:**
 * Single file plugin for simplicity
@@ -174,7 +174,7 @@ Initial release of WooCommerce Conditional Discount plugin.
 * Efficient category checking
 * No external dependencies
 
-== Support ==
+## Support 
 
 For support, feature requests, or bug reports, please contact me [vijayprakashmh@gmail.com](mailto:vijayprakashmh@gmail.com).
 
