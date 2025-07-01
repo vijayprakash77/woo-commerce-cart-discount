@@ -1,10 +1,10 @@
-=== WooCommerce Conditional Discount ===
-Contributors: Vijay Prakash Mahato
-Tags: wordpress, woocommerce, discount, cart, conditional, accessories
-Requires at least: 6.8.1
-Tested up to: 6.4
-Requires PHP: 7.4
-Stable tag: 0.0.1
+=== WooCommerce Conditional Discount ===  
+**Contributors:** Vijay Prakash Mahato  
+**Tags:** wordpress, woocommerce, discount, cart, conditional, accessories  
+**Requires at least:** 6.8.1  
+**Tested up to:** 6.4  
+**Requires PHP:** 7.4  
+**Stable tag:** 0.0.1  
 
 Automatically applies 15% discount when cart contains accessories products and total is ₹2000 or more.
 and show discount message on top of cart table
