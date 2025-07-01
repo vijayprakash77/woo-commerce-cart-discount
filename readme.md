@@ -8,6 +8,10 @@
 
 Automatically applies 15% discount when cart contains accessories products and total is ₹2000 or more.
 and show discount message on top of cart table
+## Plugin Demo Video
+
+https://github.com/user-attachments/assets/dd004dc4-cfcc-4ed9-a8c0-febb87f46e51
+
 
 ## Description
 
